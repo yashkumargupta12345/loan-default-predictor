@@ -2,7 +2,7 @@
 
 An end-to-end ML-powered web app that predicts whether a borrower will default on their loan.
 
-**Live Demo:** [Frontend on Vercel](#) · [API Docs on Render](#)
+**Live Demo:** [Frontend on Vercel](https://loan-default-predictor-sigma.vercel.app/) · [API Docs on Render](https://loan-default-predictor-backend.onrender.com/docs)
 
 ---
 
