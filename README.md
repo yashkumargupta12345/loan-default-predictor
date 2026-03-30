@@ -4,7 +4,16 @@ An end-to-end ML-powered web app that predicts whether a borrower will default o
 
 **Live Demo:** [Frontend on Vercel](https://loan-default-predictor-sigma.vercel.app/) · [API Docs on Render](https://loan-default-predictor-backend.onrender.com/docs)
 
+## 📸 Screenshots
+
+### Predict Form
+![Predict Form](assets/predict.png)
+
+### Dashboard
+![Dashboard](assets/dashboard.png)
+
 ---
+
 
 ## 🧠 ML Model
 
